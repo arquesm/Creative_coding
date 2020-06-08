@@ -70,6 +70,12 @@ __Pràctica__
 * [else](https://processing.org/reference/else.html)
 
 10. Transformacions
+* [push()](https://processing.org/reference/push_.html)
+* [pop()](https://processing.org/reference/pop_.html)
+* [translate()](https://processing.org/reference/translate_.html)
+* [rotate()](https://processing.org/reference/rotate_.html)
+* [radians()](https://processing.org/reference/radians_.html)
+
 11. Loops
 12. Video Export
 13. Ones
