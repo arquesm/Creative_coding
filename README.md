@@ -92,6 +92,14 @@ __Pràctica__
 * [tan()](https://processing.org/reference/tan_.html)
 
 14. Funcions
+* [functions](https://processing.org/examples/functions.html)
+
 15. Mapejat
-16. Exportació
-17. Guardar imatges
+* [map()](https://processing.org/reference/map_.html)
+
+16. Guardar imatges
+* [saveFrame()](https://processing.org/reference/saveFrame_.html)
+
+__Pràctica__
+
+* [saveFrame()](https://processing.org/reference/saveFrame_.html)
