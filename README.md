@@ -36,7 +36,14 @@ __Pràctica__
 * [P2D](https://processing.org/reference/size_.html)
 * [P3D](https://processing.org/tutorials/p3d/)
 
-5. Restriccions
+5. Restriccions 
+* Elements de disseny
+* Composició 
+* Paleta de colors
+* Tipografia
+
+- Les restriccions amplien la creativitat
+
 6. Colors
 7. Randomness
 8. Variables
