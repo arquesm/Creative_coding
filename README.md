@@ -4,7 +4,7 @@ Sèrie d'exercicis per iniciar-se amb la creació gràfica
 a partir de la programació creativa.
 
 1. Geometria bàsica
-* rect()
+* [rect()](https://processing.org/reference/rect_.html)
 * ellipse()
 * fill()
 * noFill()
