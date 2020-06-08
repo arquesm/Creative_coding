@@ -37,14 +37,25 @@ __Pràctica__
 * [P3D](https://processing.org/tutorials/p3d/)
 
 5. Restriccions 
-* Elements de disseny
+* Formes
 * Composició 
 * Paleta de colors
 * Tipografia
 
-- Les restriccions amplien la creativitat
-
 6. Colors
+* www.huesnap.com
+* www.coolors.co
+* www.materialpalette.com
+* www.colors.commutercreative.com/grid
+* www.khroma.co
+* www.color.hailpixel.com
+* www.colorable.jxnblk.com
+* www.farbe-app.com
+* www.colorlibrary.ch
+* www.huebee.buzz
+* www.predominant.ly
+* www.typographicposters.com
+
 7. Randomness
 8. Variables
 9. Condicionals
