@@ -82,6 +82,8 @@ __Pràctica__
 * [for](https://processing.org/reference/for.html)
 
 12. Video Export
+* [Video Export](https://timrodenbroeker.de/processing-tutorial-video-export/)
+
 13. Ones
 14. Funcions
 15. Mapejat
