@@ -76,7 +76,11 @@ __Pràctica__
 * [rotate()](https://processing.org/reference/rotate_.html)
 * [radians()](https://processing.org/reference/radians_.html)
 
+__Pràctica__
+
 11. Loops
+* [for](https://processing.org/reference/for.html)
+
 12. Video Export
 13. Ones
 14. Funcions
