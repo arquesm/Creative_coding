@@ -3,7 +3,7 @@
 Sèrie d'exercicis per iniciar-se amb la creació gràfica 
 a partir de la programació creativa.
 
-1. ''Geometria bàsica''
+1. __Geometria bàsica__
 * [rect()](https://processing.org/reference/rect_.html)
 * [ellipse()](https://processing.org/reference/ellipse_.html)
 * [fill()](https://processing.org/reference/fill_.html)
