@@ -101,5 +101,3 @@ __Pràctica__
 * [saveFrame()](https://processing.org/reference/saveFrame_.html)
 
 __Pràctica__
-
-* [saveFrame()](https://processing.org/reference/saveFrame_.html)
