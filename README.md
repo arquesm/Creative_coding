@@ -57,8 +57,18 @@ __Pràctica__
 * www.typographicposters.com
 
 7. Randomness
+* [random()](https://processing.org/reference/random_.html)
+
 8. Variables
+* [boolean](https://processing.org/reference/boolean.html)
+* [int](https://processing.org/reference/int.html)
+* [float](https://processing.org/reference/float.html)
+* [color](https://processing.org/reference/color_.html)
+
 9. Condicionals
+* [if](https://processing.org/reference/if.html)
+* [else](https://processing.org/reference/else.html)
+
 10. Transformacions
 11. Loops
 12. Video Export
