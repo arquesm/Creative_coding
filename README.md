@@ -19,7 +19,7 @@ a partir de la programació creativa.
 * [vertex()](https://www.processing.org/reference/vertex_.html)
 * [endShape()](https://www.processing.org/reference/endShape_.html)
 
-__Pràctica__
+## __Pràctica__
 
 3. Keyboard i Mouse
 * [keyPressed()](https://www.processing.org/reference/keyPressed_.html)
