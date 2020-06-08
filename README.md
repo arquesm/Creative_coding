@@ -19,18 +19,18 @@ a partir de la programació creativa.
 * [vertex()](https://www.processing.org/reference/vertex_.html)
 * [endShape()](https://www.processing.org/reference/endShape_.html)
 
-## __Pràctica__
+__Pràctica__
 
 3. Keyboard i Mouse
 * [keyPressed()](https://www.processing.org/reference/keyPressed_.html)
-* [keyPressed]()
-* [key]()
-* [keyCode]()
-* [mouseX]()
-* [mouseY]()
-* [mousePressed]()
-* [mousePressed()]()
-* [mouseReleased()]()
+* [keyPressed](https://www.processing.org/reference/keyPressed.html)
+* [key](https://www.processing.org/reference/key.html)
+* [keyCode](https://www.processing.org/reference/keyCode.html)
+* [mouseX](https://www.processing.org/reference/mouseX.html)
+* [mouseY](https://www.processing.org/reference/mouseY.html)
+* [mousePressed](https://www.processing.org/reference/mousePressed.html)
+* [mousePressed()](https://www.processing.org/reference/mousePressed_.html)
+* [mouseReleased()](https://www.processing.org/reference/mouseReleased_.html)
 
 4. Sistema de coordenades
 5. Restriccions
