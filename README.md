@@ -33,6 +33,9 @@ __Pràctica__
 * [mouseReleased()](https://www.processing.org/reference/mouseReleased_.html)
 
 4. Sistema de coordenades
+* [P2D](https://processing.org/reference/size_.html)
+* [P3D](https://processing.org/tutorials/p3d/)
+
 5. Restriccions
 6. Colors
 7. Randomness
