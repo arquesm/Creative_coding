@@ -5,13 +5,13 @@ a partir de la programació creativa.
 
 1. Geometria bàsica
 * [rect()](https://processing.org/reference/rect_.html)
-* ellipse()
-* fill()
-* noFill()
-* stroke()
-* noStroke()
-* strokeWeight()
-* strokeCap()
+* [ellipse()](https://processing.org/reference/ellipse_.html)
+* [fill()](https://processing.org/reference/fill_.html)
+* [noFill()](https://processing.org/reference/noFill_.html)
+* [stroke()](https://processing.org/reference/stroke_.html)
+* [noStroke()](https://processing.org/reference/noStroke_.html)
+* [strokeWeight()](https://processing.org/reference/strokeWeight_.html)
+* [strokeCap()](https://processing.org/reference/strokeCap_.html)
 
 2. Línees, triangles i polígons
 3. Keyboard i Mouse
