@@ -20,7 +20,18 @@ a partir de la programació creativa.
 * [endShape()](https://www.processing.org/reference/endShape_.html)
 
 __Pràctica__
+
 3. Keyboard i Mouse
+* [keyPressed()](https://www.processing.org/reference/keyPressed_.html)
+* [keyPressed]()
+* [key]()
+* [keyCode]()
+* [mouseX]()
+* [mouseY]()
+* [mousePressed]()
+* [mousePressed()]()
+* [mouseReleased()]()
+
 4. Sistema de coordenades
 5. Restriccions
 6. Colors
