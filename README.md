@@ -80,11 +80,17 @@ __Pràctica__
 
 11. Loops
 * [for](https://processing.org/reference/for.html)
-
+* grids
 12. Video Export
 * [Video Export](https://timrodenbroeker.de/processing-tutorial-video-export/)
 
+__Pràctica__
+
 13. Ones
+* [sin()](https://processing.org/reference/sin_.html)
+* [cos()](https://processing.org/reference/cos_.html)
+* [tan()](https://processing.org/reference/tan_.html)
+
 14. Funcions
 15. Mapejat
 16. Exportació
