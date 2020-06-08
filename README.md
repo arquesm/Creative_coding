@@ -3,7 +3,7 @@
 Sèrie d'exercicis per iniciar-se amb la creació gràfica 
 a partir de la programació creativa.
 
-1. __Geometria bàsica__
+1. Geometria bàsica
 * [rect()](https://processing.org/reference/rect_.html)
 * [ellipse()](https://processing.org/reference/ellipse_.html)
 * [fill()](https://processing.org/reference/fill_.html)
@@ -12,8 +12,14 @@ a partir de la programació creativa.
 * [noStroke()](https://processing.org/reference/noStroke_.html)
 * [strokeWeight()](https://processing.org/reference/strokeWeight_.html)
 * [strokeCap()](https://processing.org/reference/strokeCap_.html)
-
 2. Línees, triangles i polígons
+* [line()](https://processing.org/reference/line_.html)
+* [triangle()](https://processing.org/reference/triangle_.html)
+* [beginShape()](https://www.processing.org/reference/beginShape_.html)
+* [vertex()](https://www.processing.org/reference/vertex_.html)
+* [endShape()](https://www.processing.org/reference/endShape_.html)
+
+__Pràctica__
 3. Keyboard i Mouse
 4. Sistema de coordenades
 5. Restriccions
