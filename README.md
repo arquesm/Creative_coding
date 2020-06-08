@@ -4,6 +4,15 @@ Sèrie d'exercicis per iniciar-se amb la creació gràfica
 a partir de la programació creativa.
 
 1. Geometria bàsica
+* rect()
+* ellipse()
+* fill()
+* noFill()
+* stroke()
+* noStroke()
+* strokeWeight()
+* strokeCap()
+
 2. Línees, triangles i polígons
 3. Keyboard i Mouse
 4. Sistema de coordenades
