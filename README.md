@@ -99,5 +99,6 @@ __Pràctica__
 
 16. Guardar imatges
 * [saveFrame()](https://processing.org/reference/saveFrame_.html)
+* [save()](https://processing.org/reference/save_.html)
 
 __Pràctica__
